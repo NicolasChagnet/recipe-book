@@ -1,6 +1,6 @@
 ---
 title: Quiche
-category: Pie
+category: French
 description:
 size: 2 persons
 image: quiche.jpg
