@@ -8,10 +8,10 @@ time: 40 min
 source: https://www.giallozafferano.com/recipes/tiramisu-mascarpone-cheese-and-ladyfingers-dessert.html
 nutrition:
 	- Calories 544 kcal
-	- Carbs 42.2g
-	- Sugar 30.5g
-	- Protein 13.1g
-	- Fats 35.8g
+	- Fats 35.8 g
+	- Carbs 42.2 g
+	- Sugar 30.5 g
+	- Protein 13.1 g
 sweet: x
 veggie: x
 ---

@@ -8,10 +8,13 @@ time: 35 minutes
 source: https://www.hellofresh.nl/recipes/platbroodpizza-funghi-5b9b82e1ae08b5672a609a22
 nutrition:
 	- Calories 688 kcal
-	- Fats 28g
-	- Carbs 78g
+	- Fats 28 g
+	- Saturated fats 
+	- Carbs 78 g
 	- Sugar 8.5g
+	- Fiber 11 g
 	- Protein 27g
+	- Salt 1.2 g
 salty: ✓
 veggie: ✓
 ---

@@ -8,9 +8,13 @@ time: 25 min
 source: https://ricette.giallozafferano.it/Pasta-alla-carbonara-di-zucchine.html
 nutrition:
 	- Calories 543 kcal
-	- Carbs 67.2g
-	- Protein 19.7g
-	- Fats 21.6g
+	- Fats 21.6 g
+	- Saturated fats 7.75 g
+	- Carbs 67.2 g
+	- Sugar 2.9 g
+	- Fiber 2.8 g
+	- Protein 19.7 g
+	- Salt 762 mg
 salty: x
 veggie: x
 ---

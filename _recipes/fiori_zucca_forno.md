@@ -8,10 +8,13 @@ time: 30 min
 source: https://ricette.giallozafferano.it/Fiori-di-zucca-al-forno.html
 nutrition:
 	- Calories 116 kcal
-	- Carbs 2.7g
-	- Sugar 1.5g
-	- Protein 5.5g
-	- Fats 9.2g
+	- Fats 9.2 g
+	- Saturated fats 4.49 g
+	- Carbs 2.7 g
+	- Sugar 1.5 g
+	- Fiber 0.4 g
+	- Protein 5.5 g
+	- Salt 0.186 g
 salty: x
 veggie: x
 ---

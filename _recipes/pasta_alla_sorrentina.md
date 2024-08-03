@@ -8,10 +8,13 @@ time: 1h
 source: https://www.giallozafferano.com/recipes/Pasta-alla-sorrentina.html
 nutrition:
 	- Calories 536 kcal
-	- Carbs 70.3g
-	- Sugar 6.2g
-	- Protein 21.6g
-	- Fats 18.7g
+	- Fats 18.7 g
+	- Saturated fats 7.77 g
+	- Carbs 70.3 g
+	- Sugar 6.2 g
+	- Fiber 3.7 g
+	- Protein 21.6 g
+	- Salt 652 mg
 salty: x
 veggie: x
 ---

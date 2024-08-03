@@ -8,10 +8,13 @@ time: 30 min
 source: https://www.giallozafferano.com/recipes/potato-frittata.html
 nutrition:
 	- Calories 252 kcal
-	- Carbs 13.3g
-	- Sugar 0.3g
-	- Protein 13.3g
-	- Fats 16.2g
+	- Fats 16.2 g
+	- Saturated fats 5.7 g
+	- Carbs 13.3 g
+	- Sugar 0.3 g
+	- Fiber 1.4 g
+	- Protein 13.3 g
+	- Salt 358 mg
 salty: x
 veggie: x
 ---

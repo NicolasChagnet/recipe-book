@@ -8,10 +8,13 @@ time: 30 min
 source: https://ricette.giallozafferano.it/Pasta-al-salmone.html
 nutrition:
 	- Calories 507 kcal
-	- Carbs 44.5g
-	- Sugar 3.8g
-	- Protein 36.4g
-	- Fats 17.3g
+	- Fats 17.3 g
+	- Saturated fats 7.53 g
+	- Carbs 44.5 g
+	- Sugar 3.8 g
+	- Fiber 1.9 g
+	- Protein 36.4 g
+	- Salt 1.936 g
 salty: x
 veggie: x
 ---

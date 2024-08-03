@@ -8,10 +8,10 @@ time: 30 min
 source: https://ricette.giallozafferano.it/Risotto-al-pomodoro.html
 nutrition:
 	- Calories 550 kcal
-	- Fats 14.4g
-	- Protein 12.5g
-	- Carbs 92.7g
-	- Sugar 5g
+	- Fats 14.4 g
+	- Carbs 92.7 g
+	- Sugar 5 g
+	- Protein 12.5 g
 salty: x
 veggie: x
 ---

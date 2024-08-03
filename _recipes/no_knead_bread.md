@@ -8,10 +8,13 @@ time: 1 day
 source: https://www.recipetineats.com/easy-yeast-bread-recipe-no-knead
 nutrition:
 	- Calories 155 kcal
-	- Carbs 32g
-	- Protein 5g
-	- Fat 1g
-	- Sugar 1g
+	- Fats 1 g
+	- Saturated fats 1 g
+	- Carbs 32 g
+	- Sugar 1 g
+	- Fiber 2 g
+	- Protein 5 g
+	- Salt 469 mg
 salty: ✓
 veggie: ✓
 ---

@@ -8,10 +8,10 @@ time: 20 min
 source: https://ricette.giallozafferano.it/Pesto-di-pistacchi.html
 nutrition:
 	- Calories 272 kcal
-	- Carbs 8.4g
-	- Sugar 6.2g
+	- Fats 34 g
+	- Carbs 8.4 g
+	- Sugar 6.2 g
 	- Protein 8.4g
-	- Fats 34g
 veggie: x
 ---
 

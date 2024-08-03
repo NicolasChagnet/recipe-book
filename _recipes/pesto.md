@@ -8,10 +8,13 @@ time: 30 minutes
 source: https://www.hellofresh.nl/recipes/linguine-met-zelfgemaakte-spinaziepesto-5e0206f014ead61489462fb3
 nutrition:
 	- Calories 864 kcal
-	- Fats 48g
-	- Carbs 78g
-	- Sugar 12.2g
-	- Protein 25g
+	- Fats 48 g
+	- Saturated fats 11 g
+	- Carbs 78 g
+	- Sugar 12.2 g
+	- Fiber 9 g
+	- Protein 25 g
+	- Salt 0.4 g
 vegan: ✓
 
 ---

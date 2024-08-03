@@ -6,6 +6,15 @@ size: 24 polpette
 image: polpette_spinaci_ricotta.jpg
 time: 1h
 source: https://ricette.giallozafferano.it/Polpette-di-spinaci-e-ricotta.html
+nutrition:
+	- Calories 239.8 kcal
+	- Fats 11.9 g
+	- Saturated fats 5.2 g
+	- Carbs 21.7 g
+	- Sugar 3.5 g
+	- Fiber 69 g
+	- Protein 11.5 g
+	- Salt 926 mg
 salty: x
 veggie: x
 ---

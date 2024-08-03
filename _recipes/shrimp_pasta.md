@@ -8,10 +8,13 @@ time: 30 minutes
 source: https://selfproclaimedfoodie.com/cajun-shrimp-pasta/
 nutrition:
 	- Calories 429 kcal
-	- Carbs 30g
-	- Protein 24g
-	- Fats 22g
-	- Sugar 1g
+	- Fats 22 g
+	- Saturated fats 12 g
+	- Carbs 30 g
+	- Sugar 1 g
+	- Fiber 2 g
+	- Protein 24 g
+	- Salt 1.9 g
 salty: ✓
 veggie: ✓
 ---

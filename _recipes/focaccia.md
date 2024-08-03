@@ -10,8 +10,8 @@ salty: ✓
 veggie: ✓
 ---
 
-* `473 mL` flour
-* `273 mL` lukewarm water
+* `270 g` flour
+* `275 g` lukewarm water
 * `1 tsp`  yeast
 * `1 tsp`  salt
 
