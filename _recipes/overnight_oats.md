@@ -7,7 +7,7 @@ image: overnight_oats.jpg
 time: 5 min preparation
 source:
 sweet: ✓
-vegan: ✓
+veggie: ✓
 ---
 
 * `480 mL`  oats

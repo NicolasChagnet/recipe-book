@@ -15,7 +15,7 @@ nutrition:
 	- Fiber 9 g
 	- Protein 25 g
 	- Salt 0.4 g
-vegan: ✓
+veggie: ✓
 
 ---
 * `150 g` spinach
