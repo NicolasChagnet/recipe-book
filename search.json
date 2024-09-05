@@ -1,5 +1,6 @@
 [
-{"title":"Burrito","spicy":"✓","category":"Mexican","source":"","image":"burrito.jpg","veggie":"✓","description":"","salty":"✓","htmlfile":"burrito.html","size":"4 servings","time":"30 minutes"}
+{"title":"Tortilla","category":"Spanish","source":"https://www.marmiton.org/recettes/recette_tortilla-facile-espagne_16245.aspx","image":"Tortilla.jpg","veggie":"x","salty":"x","htmlfile":"Tortilla.html","size":"2 servings","time":"35 mins"}
+,{"title":"Burrito","spicy":"✓","category":"Mexican","source":"","image":"burrito.jpg","veggie":"✓","description":"","salty":"✓","htmlfile":"burrito.html","size":"4 servings","time":"30 minutes"}
 ,{"title":"Chocolate chip cookies","category":"Dessert","source":"","image":"chocolate_chip_cookies.jpg","veggie":"✓","description":"","htmlfile":"chocolate_chip_cookies.html","sweet":"✓","size":"10 cookies","time":"1 hour"}
 ,{"title":"Classic Cheesecake","category":"Dessert","source":"","image":"classic_cheesecake.jpg","veggie":"✓","description":"","htmlfile":"classic_cheesecake.html","sweet":"✓","size":"1 springform","time":"7h45"}
 ,{"title":"Cocochy Uniforme","category":"Dessert","source":"","image":"","veggie":"✓","description":"A delicious and refreshing coconut cake.","htmlfile":"cocochy_uniforme.html","sweet":"✓","size":"4 persons","time":"1 hour"}
