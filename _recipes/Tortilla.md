@@ -9,14 +9,11 @@ veggie: x
 salty: x
 ---
 
+* `5` eggs
 * oil
 * pepper
 * sel
 * herbes de Provence
-
----
-
-* `5` eggs
 
 > Beat the eggs into an omelette in a salad bowl, adding salt, pepper and herbes de Provence.
 
