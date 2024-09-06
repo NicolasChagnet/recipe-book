@@ -6,6 +6,7 @@ image: Basque-Pistacchio-Cheesecake.jpg
 size: 10 items
 time: 20 mins
 sweet: x
+veggie: x
 ---
 
 * `900 g` Philadelphia

@@ -16,6 +16,7 @@ nutrition:
 	- Fiber 1 g
 	- Sugar 34 g
 sweet: x
+veggie: x
 ---
 
 * `¼ cup` almond slithers (optional)
