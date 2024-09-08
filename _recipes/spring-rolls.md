@@ -1,8 +1,8 @@
 ---
-title: Involtini primavera
-category: Italian
+title: Spring rolls
+category: Asian
 source: https://ricette.giallozafferano.it/Involtini-primavera.html
-image: involtini-primavera.jpg
+image: spring-rolls.jpg
 size: 8 servings
 time: 50 mins
 nutrition:
