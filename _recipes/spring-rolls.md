@@ -6,14 +6,16 @@ image: spring-rolls.jpg
 size: 8 servings
 time: 50 mins
 nutrition:
-	Calories 450.5 kcal
-	Carbohydrate content 22.2 g
-	Sugar content 4.7 g
-	Fat content 37.8 g
-	Saturated fat content 5.7 g
-	Fiber content 0 g
-	Cholesterol content 1.8 mg
-	Sodium content 529 mg
+	- Per 8 servings;
+	- Calories 450.5 kcal
+	- Fat 37.8 g
+	- Saturated fat 5.7 g
+	- Carbohydrate 22.2 g
+	- Sugar 4.7 g
+	- Fiber 0 g
+	- Protein 5.4g
+	- Cholesterol 1.8 mg
+	- Sodium 529 mg
 salty: x
 veggie: ✓
 ---

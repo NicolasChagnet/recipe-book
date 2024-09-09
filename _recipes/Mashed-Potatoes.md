@@ -5,6 +5,17 @@ source: https://www.marmiton.org/recettes/recette_puree-de-pommes-de-terre-maiso
 image: Mashed-Potatoes.jpg
 size: 4 servings
 time: 70 mins
+nutrition:
+    - Per 1 serving;
+	- Calories 42 kcal
+	- Fat 1.1 g
+	- Saturated fat 0.6 g
+	- Carbohydrate 6.4 g
+	- Sugar 2.5 g
+	- Fiber 0.6 g
+	- Protein 2.4 g
+	- Cholesterol 4 mg
+	- Sodium 25 mg
 veggie: x
 salty: x
 ---

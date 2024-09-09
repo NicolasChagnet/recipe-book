@@ -7,6 +7,7 @@ image: spaghetti_aglio_e_olio.jpg
 time: 15 min
 source: https://ricette.giallozafferano.it/Spaghetti-aglio-olio-e-peperoncino.html
 nutrition:
+	- Per 1 serving;
 	- Calories 462 kcal
 	- Fats 17.8 g
 	- Saturated fats 2.59 g
