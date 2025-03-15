@@ -3,7 +3,7 @@ title: Linguine with shrimp in creamy sauce
 category: Mediterranean
 description:
 size: 2 servings
-image: linguine_shrimps.jpg
+image: linguine_shrimps.webp
 time: 30 min
 source: https://www.hellofresh.nl/recipes/linguine-met-garnalen-in-romige-saus-6229e624b685385d9902910a?locale=en-NL
 nutrition:
